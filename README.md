@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="ghost_terminal banner" width="100%">
+</p>
+
 # ghost_terminal
 
 Widescreen dark desktop environment for GNOME: transparent black terminals, sci-fi wallpapers, workspace-aware wallpaper switching, and window tiling. Built for ultrawide (5120x1440) displays.
