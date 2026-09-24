@@ -123,7 +123,7 @@ ghost_terminal/
 │   ├── dark-scraped/                  # WallHaven dark collection
 │   └── dark-variants/                 # Extra-darkened versions
 ├── daemon/
-│   ├── workspace-wallpapers-fast.sh   # D-Bus workspace wallpaper switcher
+│   ├── workspace-wallpapers-fast.sh   # Event-driven workspace wallpaper switcher
 │   └── workspace-wallpapers.sh        # Fallback polling-based switcher
 ├── tools/
 │   ├── wallpaper_scraper.py
